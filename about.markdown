@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于风铃
 permalink: /about/
 ---
 
@@ -12,7 +12,7 @@ You can find the source code for Minima at GitHub:
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[aegena](https://github.com/aegena/)
 
 
 [jekyll-organization]: https://github.com/jekyll

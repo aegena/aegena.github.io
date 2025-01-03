@@ -21,13 +21,19 @@
 title: 风铃的博客
 email: 1104107956@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  一个小小的博客，记录一些技术和生活。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: AegenaML
+github_username:  aegena
+
+# 将markdown转换为html时使用的引擎，默认值是maruku
+markdown: kramdown
+kramdown:
+  input: GFM
+# 支持语法高亮能力，可以通过 {\% highlight \%} 标签在博文中嵌入语法高亮的代码。
+pygments: true
+
 
 # Build settings
 theme: minima
