@@ -5,16 +5,13 @@
 layout: home
 ---
 
+
 # Java
-
-
 
 # Kotlin
 
 ```kotlin
-    fun fill117() {
-        // 这里是部署测试验证Markdown是否支持代码标签能力
-    }
+   
 ```
 
 # TypeScript
@@ -23,7 +20,7 @@ layout: home
 
 # Gradle
 
-# AGP
+# Android Gradle Plugin
 
 # Jetpack Compose
 
@@ -32,3 +29,5 @@ layout: home
 # Spring
 
 # Git
+
+# 面试相关
